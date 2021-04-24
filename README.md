@@ -1,4 +1,4 @@
-# App Login - App Register
+# App Login - Register
 
 <img src = "Yemeksepeti/Resources/applogin.png"/> <img src = "Yemeksepeti/Resources/appregister.png"/>
 
